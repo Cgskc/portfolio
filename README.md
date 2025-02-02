@@ -1,2 +1,1 @@
 # portfolio
-projects and translations
